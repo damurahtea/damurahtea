@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new knowledge
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me ...
+- 📫 How to reach me https://github.com/damurahtea 
 
 <!---
 damurahtea/damurahtea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
